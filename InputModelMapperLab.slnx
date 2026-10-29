@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InputModelMapperAPI/InputModelMapperAPI.csproj" />
+  <Project Path="InputModelMapperLab.Application/InputModelMapperLab.Application.csproj" />
+  <Project Path="InputModelMapperLab.Domain/InputModelMapperLab.Domain.csproj" />
+  <Project Path="InputModelMapperLab.Infrastructure/InputModelMapperLab.Infrastructure.csproj" />
+</Solution>
